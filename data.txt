@@ -1,0 +1,4 @@
+makanan:
+- udang
+- tempe
+- nasi gudeg
